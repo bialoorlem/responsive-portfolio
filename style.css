@@ -1,0 +1,40 @@
+.container {
+    max-width: 960px;
+    height: 100%;
+    display: block;
+    margin: 0 auto;
+}
+
+.text {
+
+  color: #777777;
+  text-align: justify;
+  line-height: 1.6;
+  padding:15px;
+  margin: 5,5,5,5;
+}
+
+.nav-link {
+    display: inline-block;
+    padding: 5px 20px;
+    margin: 10px;
+    float: right;
+    
+}
+
+h2 {
+    float: left;
+    background: #4aaaa5;
+    color: white;
+    height: 80px;
+    padding: 20px 20px 10px 20px;
+    text-align: left;
+    position: relative;
+    font-family: 'Playfair Display', serif;
+}
+
+
+.grid {
+    position: relative;
+    z-index: 0;
+}
